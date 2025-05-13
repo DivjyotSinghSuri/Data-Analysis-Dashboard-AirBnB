@@ -1,8 +1,8 @@
-#🏠 Airbnb Listings Data Analysis Dashboard
-##📌 Project Objective:
+# 🏠 Airbnb Listings Data Analysis Dashboard
+## 📌 Project Objective:
 The objective of this project is to analyze Airbnb listings data to uncover patterns in pricing, availability, and geographic distribution. By visualizing this data, the project aims to support stakeholders—including hosts, potential investors, and market analysts—in making data-driven decisions about pricing strategy, property investment, and market entry.
 
-##📊 Project Description:
+## 📊 Project Description:
 This interactive dashboard was developed using Tableau Public and provides visual insights into Airbnb listings from the year 2016. The dashboard includes multiple components that focus on different dimensions of the data:
 
 Avg Price per Bedrooms: A bar chart showing how the average nightly price changes with the number of bedrooms, helping hosts price their listings more competitively.
@@ -15,12 +15,12 @@ Map View by ZIP Code: A choropleth map highlighting listing activity across diff
 
 Avg Price by ZIP Code: A bar chart comparing average prices across ZIP codes, helping identify high-revenue potential areas for investment.
 
-##🛠 Tools & Technologies Used:
+## 🛠 Tools & Technologies Used:
 Tableau Desktop Public Edition
 
 2016 Airbnb Listings Dataset
 
-##🌍 Real-World Use Case:
+## 🌍 Real-World Use Case:
 This dashboard can be utilized by:
 
 Airbnb Hosts: To benchmark their listing prices against similar properties in their area and identify optimal pricing based on bedroom count and location.
